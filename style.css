@@ -12,7 +12,7 @@ body
   padding: 0px;
   margin: 0px;
   background-color: #130244;
-  background-image:url("fondo.png.");
+  background-image:url("fondo.png");
   background-repeat:repeat;
   height:100%;
 }
